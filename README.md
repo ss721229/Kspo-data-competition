@@ -14,7 +14,7 @@
 
 ## &nbsp;&nbsp;&nbsp;<a href="https://github.com/ss721229/Kspo/blob/main/Draft.jpg">Draft</a>
 - 주제를 바탕으로 어떤 데이터를 수집하여 시각화할 것인지 파악
-- 그래프와 표, 지도의 위치를 이해하기 쉽도록 배치
+- 안전 관리가 부족한 부분이 두드러지게 시각화
 
 ## &nbsp;&nbsp;&nbsp;<a href="https://github.com/ss721229/Kspo/blob/main/code.ipynb">Code</a>
 - 2019 ~ 2021년 수상 레저 스포츠 데이터 전처리
