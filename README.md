@@ -2,8 +2,6 @@
 
 ## &nbsp;&nbsp;&nbsp;Competition
 - <a href="https://www.kspo.or.kr">홈페이지</a>
-- 주제: 충청남도 관련 자유주제
-- 참가 대상: 개인(혹은 팀)/단체/기업 형태로 국민 누구나(1팀 4인 이내)
 
 </br>
 
